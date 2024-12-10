@@ -1,5 +1,6 @@
 arthurai>=3.22.3
 boto3>=1.0
-numpy>=1.0
-pandas>=1.0
+numpy~=1.0
+pandas~=1.0
 scikit-learn>=0.23.0
+PyYAML~=6.0
